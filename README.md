@@ -1,2 +1,2 @@
 # cs375
-school
+Austen Turbyne
