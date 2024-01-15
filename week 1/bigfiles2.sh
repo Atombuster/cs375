@@ -1,0 +1,1 @@
+ls -S -s $1 | head -8 | tail -7

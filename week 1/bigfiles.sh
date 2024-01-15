@@ -1,0 +1,1 @@
+ls -S -s /usr/lib | head -8 | tail -7
